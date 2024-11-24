@@ -1,0 +1,43 @@
+body {
+    
+    background-image: url('img/bg-img.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-color: rgba(255, 255, 255, 0.6);
+        background-blend-mode: soft-light;
+}
+p{
+    margin: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+
+.whiteBanner{
+    height: max-content;
+    width: 50%;
+    background-color: white;
+    border-radius: 10px;
+}
+
+ul{
+    margin: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+    list-style-type: square;
+}
+
+
+h1 {
+    margin: 15px;
+    font-family: sans-serif;
+}
+h2{
+    margin: 15px;
+    font-family: sans-serif;
+}
+h3{
+    margin: 15px;
+    font-family: sans-serif;
+    
+}
